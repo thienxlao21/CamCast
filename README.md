@@ -16,6 +16,6 @@ Our features:
  - Edit audio and add music
  - Easily upload your recordings to YouTube, Dropbox and Google Drive.
  - Use Styles and Templates to make editing a series of Software tutorials quicker and easier.
- - Create animated GIFs and APNGs from any video project
-Our video creation tool help youtubers create and communicate through video. Simple and intuitive tool to get the job done easily.
+ - Create animated GIFs and APNGs from any video project  
+Our video creation tool help youtubers create and communicate through video. Simple and intuitive tool to get the job done easily.  
 In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.
